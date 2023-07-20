@@ -71,15 +71,16 @@ function App() {
   return ( 
     <main> 
 
-    <Router>
-        <Header title="ToDoList" searchBar={false} /> 
+    {/* <Router> */}
+        <Header title="ToDoList" searchBar={false} />
+        {/* <Home /> 
         <Routes>
           <Route path="/" element={<Home />} />
           <Route exact path="/about" element={<About />} />
         </Routes>
-        
+         */}
         <Footer />
-    </Router>
+    {/* </Router> */}
 
 
     
