@@ -1,0 +1,28 @@
+.my-container{
+    background-color: rgb(42, 37, 66);
+    padding: 10px;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px grey;
+}
+
+.text-white{
+    color: white;
+    text-shadow: 2px 2px 2px grey;
+}
+
+.bg-blue{
+    background-color: rgb(42, 37, 66) ;
+}
+
+main{
+    background-color: rgb(75, 71, 117);
+}
+
+.todo-item{
+    background-color: rgb(102, 99, 153);
+    padding: 10px;
+    margin-top:7px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px rgb(255, 255, 255);
+}
