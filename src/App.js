@@ -67,8 +67,8 @@ function App() {
 
     {/* <Router> */}
         <Header title="ToDoList" searchBar={false} />
-        {/* <Home /> 
-        <Routes>
+        <Home /> 
+        {/* <Routes>
           <Route path="/" element={<Home />} />
           <Route exact path="/about" element={<About />} />
         </Routes>
